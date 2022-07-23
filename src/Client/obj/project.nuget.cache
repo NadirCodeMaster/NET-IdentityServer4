@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dJDcX1FsqQOXGMSG6Nq4H5l2uC6tfN0ln9E9se7Q1NI1Udnh8uEbZkVK+NhEZZFLfOtNKrE1x/cBzeKRaHReA==",
+  "success": true,
+  "projectFilePath": "G:\\Upwork\\Identity\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Passion\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\Passion\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
